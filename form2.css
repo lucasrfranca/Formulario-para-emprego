@@ -1,0 +1,22 @@
+.margin{
+    margin-bottom: 5px;
+    margin-left: 20px;
+}
+.margin0 {
+    margin-bottom: 5px;
+}
+.margin1{
+    margin-bottom: 5px;
+    margin-left: 14px;
+}
+.margin2 {
+    margin-left: 16px;
+}
+input[type="submit"]
+ {  
+    width: 100px;
+}
+input[type="reset"]
+{
+    width: 100px;
+}
